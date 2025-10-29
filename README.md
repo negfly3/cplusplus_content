@@ -28,13 +28,15 @@
   -logical
   -bitwise
   -ternary
+  -sizeof operator
   -scope resolution operator
-  -member deredferencing operator(important see after classes and namespaces)
-  -pointer operator(*(pointer and pointer dereferencing),&(address of operator))
+  -member dereferencing operator(important see after classes and namespaces)->{.,::*,->}
+  -pointer operator(*(pointer dereference),&(address of operator))
   -memory managements operator(new,delete)
   -endl(Line feed operator)
   -setw(Field width operator)(see in manipulators)
   -[],()
+  -Type casting operator
   
 11.operators precedence
 12.expression and its types
