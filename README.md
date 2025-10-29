@@ -23,6 +23,7 @@
 9.Type Qualifiers
 10.operators
 11.operators precedence
+12.expression and its types
 12.type casting
 13.implicit convertions
 14.Control structures
