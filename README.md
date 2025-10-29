@@ -22,6 +22,20 @@
 8.Storage class specifiers
 9.Type Qualifiers
 10.operators
+  -assignment
+  -comma
+  -relation
+  -logical
+  -bitwise
+  -ternary
+  -scope resolution operator
+  -member deredferencing operator(important see after classes and namespaces)
+  -pointer operator(*(pointer and pointer dereferencing),&(address of operator))
+  -memory managements operator(new,delete)
+  -endl(Line feed operator)
+  -setw(Field width operator)(see in manipulators)
+  -[],()
+  
 11.operators precedence
 12.expression and its types
 12.type casting
