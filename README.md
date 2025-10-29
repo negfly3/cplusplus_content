@@ -54,9 +54,14 @@
 20.Structures
 21.Unions
 23.Enumeration
+24.Preprocessor
+25.c->string and character fucntions
+26.c->math functions
+27.c->Dynamic allocation functions
+28.c->Utility fucntions
 .
 .
-
+.
 OOPs
 
 
